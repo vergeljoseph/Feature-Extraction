@@ -47,7 +47,7 @@ def getEmotion(line, f):
 # MAIN FUNCTION #
 
 stopwords = set(stopwords.words('english'))
-fileIn = 'input_files/followcelrose.txt'  
+fileIn = 'input_files/icbsalvador.txt'  
 fileOut = initOutput(fileIn)
 
 with open(fileIn, 'r') as fp:  
