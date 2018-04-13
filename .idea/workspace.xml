@@ -2,36 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="527b677a-20e5-4e1a-8575-765d45866d70" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Thesis/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Thesis/KMeans Clustering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Thesis/KMeans Clustering.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thesis/input_files/genobi_.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Thesis/input_files/genobi_.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thesis/output_files/18thOfJuly.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Thesis/output_files/18thOfJuly.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thesis/output_files/AhmedGul4PTI.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Thesis/output_files/AhmedGul4PTI.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thesis/output_files/AlyssaKhay.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Thesis/output_files/AlyssaKhay.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thesis/output_files/Attorney_Pork.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Thesis/output_files/Attorney_Pork.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thesis/output_files/Chaos2Cured.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Thesis/output_files/Chaos2Cured.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thesis/output_files/DaNeilPaduria.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Thesis/output_files/DaNeilPaduria.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thesis/output_files/ElloiseJhann18.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Thesis/output_files/ElloiseJhann18.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thesis/output_files/aclxire.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Thesis/output_files/aclxire.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thesis/output_files/adelainexx.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Thesis/output_files/adelainexx.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thesis/output_files/alagadnimissg.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Thesis/output_files/alagadnimissg.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thesis/output_files/alexdaviespbts.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Thesis/output_files/alexdaviespbts.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thesis/output_files/aliesaanne.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Thesis/output_files/aliesaanne.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thesis/output_files/amiveronicah.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Thesis/output_files/amiveronicah.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thesis/output_files/annakarreneu.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Thesis/output_files/annakarreneu.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thesis/output_files/artistimoii.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Thesis/output_files/artistimoii.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thesis/output_files/avriegerman.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Thesis/output_files/avriegerman.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thesis/output_files/awwwnuugh.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Thesis/output_files/awwwnuugh.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thesis/output_files/bansqrd.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Thesis/output_files/bansqrd.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thesis/output_files/beacheeks.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Thesis/output_files/beacheeks.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thesis/output_files/crldvdx.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Thesis/output_files/crldvdx.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thesis/output_files/danedelionz.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Thesis/output_files/danedelionz.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thesis/output_files/delatorrefaye.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Thesis/output_files/delatorrefaye.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thesis/output_files/denarcayos.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Thesis/output_files/denarcayos.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thesis/output_files/denise_kristie.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Thesis/output_files/denise_kristie.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thesis/output_files/followcelrose.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Thesis/output_files/followcelrose.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thesis/input_files/jandamaganda.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Thesis/input_files/jandamaganda.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Thesis/readTweet.py" beforeDir="false" afterPath="$PROJECT_DIR$/Thesis/readTweet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thesis/user_results.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Thesis/user_results.csv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -41,7 +15,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="readTweet.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Thesis/readTweet.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="428">
+              <caret line="55" column="25" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,6 +34,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Thesis/input_files/imecaajero.txt" />
+        <option value="$PROJECT_DIR$/Thesis/KMeans Clustering.ipynb" />
+        <option value="$PROJECT_DIR$/Thesis/readTweet.py" />
       </list>
     </option>
   </component>
@@ -71,19 +57,25 @@
         <subPane>
           <expand>
             <path>
-              <item name="THESIS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="THESIS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="THESIS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="THESIS" type="462c0819:PsiDirectoryNode" />
+              <item name="Thesis" type="b2602c69:ProjectViewProjectNode" />
               <item name="Thesis" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="THESIS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="THESIS" type="462c0819:PsiDirectoryNode" />
+              <item name="Thesis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Thesis" type="462c0819:PsiDirectoryNode" />
+              <item name="Thesis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Thesis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Thesis" type="462c0819:PsiDirectoryNode" />
               <item name="Thesis" type="462c0819:PsiDirectoryNode" />
               <item name="input_files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Thesis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Thesis" type="462c0819:PsiDirectoryNode" />
+              <item name="Thesis" type="462c0819:PsiDirectoryNode" />
+              <item name="output_files" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -107,7 +99,43 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.readTweet">
+    <configuration name="code (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="THESIS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="/code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="code" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="THESIS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="/code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="readTweet" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="THESIS" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,9 +154,16 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <list>
+      <item itemvalue="Python.readTweet" />
+      <item itemvalue="Python.code" />
+      <item itemvalue="Python.code (1)" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.readTweet" />
+        <item itemvalue="Python.code (1)" />
+        <item itemvalue="Python.code" />
       </list>
     </recent_temporary>
   </component>
@@ -147,56 +182,42 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24304539" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24304539" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3290938" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
-    <layout-to-restore>
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.3290938" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24304539" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Python Console" order="0" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info id="Favorites" order="0" side_tool="true" />
-    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Thesis/readTweet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/Thesis/tf-idf.py.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thesis/KMeans Clustering.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
         </state>
       </provider>
     </entry>
@@ -204,6 +225,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="17" lean-forward="true" selection-end-line="7" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thesis/KMeans Clustering.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thesis/tf-idf.py.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thesis/readTweet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="55" column="25" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
         </state>
       </provider>
     </entry>
